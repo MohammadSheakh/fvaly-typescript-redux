@@ -1,0 +1,13 @@
+// ekhonn ei je eto eto .. jinish potro gula hoilo .. eto eto folder .. eto eto 
+// file ... shob gula import kore arekta file create korbo .. shetar nam main.scss
+
+@import "./abstract/variable";
+@import "./overrides/bootstrap";
+@import "./global/global"; // amader ta bootstrap er cheyeo priority pabe .. 
+@import "./global/reset";
+
+@import "./components/common/header";
+
+
+
+// amra amader app er moddhe main.scss er style gula use korbo... 

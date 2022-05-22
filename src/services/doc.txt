@@ -1,0 +1,6 @@
+service folder er moddhe bivinno api call hoy .. 
+backend er joto api gula ase .. oi gula amra function akare ei khane likhe rakhi
+pore amra just amader component er moddhe ba page er moddhe oi function gula call kori ..
+
+amader jodi api related kono ekta kichu change hoile .. oi tar jonno amader jeno hajar ta component er moddhe
+khuja na lage .. 

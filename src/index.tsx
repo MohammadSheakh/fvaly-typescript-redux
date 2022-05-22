@@ -1,8 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+//import 'bootstrap/dist/css/bootstrap.min.css'; // ei ta amader ekhon ar dorkar nai ..
+// karon eita amra override kore main er moddhe shob kichu ek shathe korsi .. 
+// ekhane shudhu main ta re import korlei hobe .. 
+
+import "./scss/main.scss"
+
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement

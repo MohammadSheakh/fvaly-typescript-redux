@@ -1,0 +1,4 @@
+dhoren amra kono library use korbo .. dhoren carousel use korbo .. ei type er .. ba kono modal use 
+korbo.. oi ta je amra use korlam.. kono ekta package.. oi package ta .. amra kono shomoy .. directly
+amader component er moddhe use korbo na .. directly amader page e use korbo na .. wrapper component 
+use korbo .. direct use na kore .. 

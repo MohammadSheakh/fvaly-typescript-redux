@@ -1,0 +1,10 @@
+/* import bootstrap to set changes */
+@import "~bootstrap/scss/bootstrap";
+
+// amra amader nijeder theming korte chai .. 
+
+/* make the customizations */
+$theme-colors: (
+    "primary": $primary,
+    //"danger": teal
+);
