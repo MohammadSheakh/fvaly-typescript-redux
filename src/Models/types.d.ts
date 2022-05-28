@@ -3,7 +3,7 @@
 // ei jinish gula amar export o korte hobe na...
 // import o korte hobe na .. 
 
-export default interface IProduct{
+export interface IProduct{
     _id? : string;
     name : string,
     // comma dile standard er baire gia likha hobe .. 
@@ -12,6 +12,7 @@ export default interface IProduct{
     store : string,
     price : number, 
     image : string;
+    __v : number;
 }
 /**
  * amra ekhon eta kothao use korbo .. kothay use korbo eita ?

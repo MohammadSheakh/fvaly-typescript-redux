@@ -62,7 +62,7 @@ const _delete = (url:string) => {
 // .then er pore callback function ta shobai ke dhoray dibo .. 
 // jehetu amader prottek bar repeat kora lagtese .. jinish ta 
 
-const responseBody = (response : AxiosResponse) => response.data.data;
+const responseBody = (response : AxiosResponse) => response.data.data; // simple callback function 
 
 // requests nam e ekta object create korlam ekhane ..
 const requests = {
