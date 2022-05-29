@@ -10,7 +10,7 @@ interface IProps {
 // const baseUrl = process.env.REACT_APP_IMAGE_BASE_URL;
 
 const Product = ({ product }: IProps) => {
-    const { name, image, mohammad } = product;
+    const { name, image } = product;
     // 6 : 11
     return (
         <div>
